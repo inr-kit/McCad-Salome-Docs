@@ -10,7 +10,7 @@ This repository contains user guide and tutorials for McCad-Salome. The tutorial
 
 For start using McCad, it is recommended make a practice following the tutorials to get a quick impression. When you have some questions then you can find the corresponding section in the user guide. 
 
-You can find our Youtube video for a demos:
+You can find our Youtube video for demos:
 
 MCNP5 CSG: https://www.youtube.com/watch?v=t62RVlwX97s
 
